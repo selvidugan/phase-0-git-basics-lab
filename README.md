@@ -156,7 +156,7 @@ Create a new directory locally named `my-repository`. This directory should be
 side by side with the `test` directory of this lab. Use the Unix command to
 create this directory. From the top-level of this lab, the parent directory of
 `my-repository`, run `npm test` and verify there are only 5 broken tests left.
-
+git 
 #### Step 2
 
 Navigate into the new directory `my-repository` using `cd` on the command line.
